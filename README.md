@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cybershield_banner.png" alt="AI CyberShield Banner" width="100%">
+</p>
+
 # AI CyberShield — AI-Powered Cybersecurity & Fraud Protection Ecosystem
 
 > **Detect • Verify • Prevent • Protect**
@@ -107,6 +111,10 @@ AI_CyberShield/
 
 ## 🤖 The 10-Agent Security Cluster
 
+<p align="center">
+  <img src="assets/agent_dashboard.png" alt="AI Agent Security Cluster Dashboard" width="85%">
+</p>
+
 AI CyberShield delegates scan operations to coordinate agents using semantic routing rules:
 1. **Threat Intelligence**: Checks global reputation indexes and searches credential exposures in vector lists.
 2. **Fraud Investigator**: Evaluates UPI transfers for behavior indicators (AnyDesk overlays, urgency).
@@ -122,6 +130,10 @@ AI CyberShield delegates scan operations to coordinate agents using semantic rou
 ---
 
 ## 🧪 Verification & Testing
+
+<p align="center">
+  <img src="assets/threat_analyzer.png" alt="AI Threat Analyzer" width="85%">
+</p>
 
 Verify backend logic and scoring models using the test script:
 ```bash
